@@ -10,6 +10,7 @@ Web Developer
 * ✉️  You can contact me at [pallavii.sinha029@gmail.com](mailto:pallavii.sinha029@gmail.com)
 * 🤝  I'm open to collaborating on NodeJS, php based projects
 * Leetcode profile- https://leetcode.com/Rero29/
+* CodingNinjas profile- https://www.codingninjas.com/studio/profile/b75d4633-15fd-4f2f-a85f-3ddfc774d51e
 
 ### Skills
 
